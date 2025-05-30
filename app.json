@@ -2,8 +2,8 @@
   "name":"CHARLESKE-XMD",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://ibb.co/q70RyBd",
-  "repository":"https://github.com/ekitale/maths-project",
+  "logo":"https://camo.githubusercontent.com/e830c1c56cc230c4827165d828bafc8af286fd2810899f8c3718f48eb535be61/68747470733a2f2f66696c65732e636174626f782e6d6f652f6e30686c77312e6a7067",
+  "repository":"https://github.com/Newtonandala/CHARLESKE-XMD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -97,7 +97,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "©AndalaTheMr"
   },
     "NUMERO_OWNER":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
