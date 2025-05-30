@@ -1,8 +1,8 @@
 
 {
     "bot-name": "CHARLESKE-XMD",
-    "description": "CHARLESKE-XMD made for people on Earth",
-    "logo": "https://githubu.com/Charleskenya1/CHARLESKE",
+    "description": "Simplicity defines Spark-X ",
+    "logo": "https://i.imgur.com/5zda1uw.jpeg",
     "keywords": ["bot"],
     "documentation-link": "https://session.talkdrove.com",
     "owner-verification":"hamaxdelalozi@gmail.com",
@@ -16,7 +16,7 @@
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
-        "value":".",
+        "value":"!",
         "required": true
         
       },
@@ -101,7 +101,7 @@
       },
       "COUNTRY_BLOCK_CODE": {
         "description": "Block by country code put country code without + (e.g, 972)",
-        "value":"972",
+        "value":"254",
         "required": false
         
       },
