@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING CHARLESKE-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029VbB1G4aKwqSaC79RCK0q ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://chat.whatsapp.com/CfJONhLpQp6Bzb2HQ2ty9E ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠https://youtube.com/@hamaxandroidgaming?si=As5AN21NjrKtq6EW] \n\n\n𝑪𝒓𝒆ated by Andala Ke") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING CHARLESKE-XMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING NEWTON AI, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029VbB1G4aKwqSaC79RCK0q ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://chat.whatsapp.com/CfJONhLpQp6Bzb2HQ2ty9E ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠https://youtube.com/@hamaxandroidgaming?si=As5AN21NjrKtq6EW] \n\n\n𝑪𝒓𝒆ated by Andala Ke") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING NEWTON AI,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
