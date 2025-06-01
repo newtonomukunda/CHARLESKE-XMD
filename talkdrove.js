@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "CHARLESKE-XMD",
+    "bot-name": "NEWTON AI",
     "description": "Simplicity defines Spark-X ",
     "logo": "https://i.imgur.com/5zda1uw.jpeg",
     "keywords": ["bot"],
@@ -89,7 +89,7 @@
       },
       "PRESENCE": {
         "description": "Set presence of your WhatsApp, you can put online to keep your WhatsApp online for always, put offline to keep the WhatsApp normal, put typing to show that you are typing whenever anybody will message you! put recordig to show that you are recording whenever anybody will message you, or you can also show paused for nothing (e.g, online)",
-        "value":"typing",
+        "value":"2",
         "required": false
         
       },
