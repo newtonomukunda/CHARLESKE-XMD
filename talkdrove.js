@@ -1,7 +1,7 @@
 
 {
     "bot-name": "NEWTON AI",
-    "description": "Simplicity defines Spark-X ",
+    "description": "Simplicity defines NEWTON AI ",
     "logo": "https://i.imgur.com/5zda1uw.jpeg",
     "keywords": ["bot"],
     "documentation-link": "https://session.talkdrove.com",
